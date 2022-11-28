@@ -18,6 +18,12 @@
             ]
         },
         {
+            "software": "v1.2.2",
+            "hardware": [
+                "v2.0"
+            ]
+        },
+        {
             "software": "v1.2.1",
             "hardware": [
                 "v2.0"
